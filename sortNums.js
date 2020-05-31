@@ -1,6 +1,6 @@
 
 
-function sorNums (arr) {
+function sortNums (arr) {
     let one = 0,
         two = 0,
         three = 0;
